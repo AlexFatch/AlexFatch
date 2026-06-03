@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Alex Anesu Fatch 👋 
 
-<!--
-**AlexFatch/AlexFatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineer and Tech Entrepreneur passionate about building scalable digital solutions, integrating hardware/software systems, and driving business growth through automation.
 
-Here are some ideas to get you started:
+## 🛠️ What I Do
+- 🚀 **Full-Stack Development:** Crafting robust web and mobile applications (Django, Python, Next.js, Flutter).
+- ⚙️ **Embedded Systems & IoT:** Connecting the physical and digital worlds (Arduino, ESP32, hardware automation).
+- 🌐 **Network Infrastructure:** Designing and managing secure, high-performance networks.
+- 💼 **Ventures:** Founder & Lead Developer at **Brandit Volensque**—turning vision into brand infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack & Tools
+<!-- You can use badges here from shields.io or just a clean list -->
+- **Languages:** Python, JavaScript, Dart, C++
+- **Frameworks:** Django, React, Next.js, Flutter
+- **Infrastructure:** MikroTik, UniFi, Linux, Git
+
+## 📈 Connect With Me
+- 📸 Instagram: @whois_fatch
+- 📧 Email: afatch@branditvolensque.co.zw
